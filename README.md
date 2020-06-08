@@ -14,3 +14,5 @@ Output: shortest path in an undirected graph from starting vertex to end vertex.
 
 Code runs till EOF is reached.
 
+## Inter-Process Communication
+Link the output of the random input generator to the input of construct_graph.py, and the output of this Python script to the input of shortest_path.cpp
